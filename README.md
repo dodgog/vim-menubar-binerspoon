@@ -54,7 +54,7 @@ proceed in insert mode.
   - `escape`
   - `control` + `[`
   - Clicking any mouse button
-  - Pressing any key within Atom, iTerm2, PyCharm or VSCodium (because those have their own Vim modes)
+  - Pressing any key within Vscode, Cursor, Android Studio, Termina, Arc (because those have their own Vim modes)
   - Pressing any key while having at least one finger on your trackpad
 
 Alternatively, you can hold `caps lock` for NORMAL mode and release it to exit.
