@@ -43,6 +43,10 @@ Then this fix should work.
 To enter the Vimari link navigation mode, press `f` when in Safari and
 proceed in insert mode.
 
+### Demo
+
+https://github.com/dodgog/vim-menubar-binerspoon/assets/137945767/d1932258-100e-43bd-aad0-c949831f45b6
+
 ### Usage keys
 
 #### NORMAL mode
